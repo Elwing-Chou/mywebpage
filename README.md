@@ -14,3 +14,7 @@ import random
 i = random.randint(0, 10)
 print(i)
 ```
+姓名 | 身高
+-----|-----
+Elwing | 175
+Bob | 160

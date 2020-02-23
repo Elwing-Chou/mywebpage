@@ -7,3 +7,10 @@
 [請點我google](https://www.google.com)
 
 this is a test!!!!
+
+
+```python
+import random
+i = random.randint(0, 10)
+print(i)
+```
